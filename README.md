@@ -1,9 +1,20 @@
+
+
+
+
 <h1 align="center">Hola 👋, I'm Darshil Gajul</h1>
 <h3 align="center">🎓 Learning and Coding with MERN Stack</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align='right' src='https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/static/gifs/new.gif' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshilll&label=Profile%20views&color=0e75b6&style=flat" alt="darshilll" /> </p>
+
+- 🏫 I’m currently studying Computer Science at Sandip Institute of Technology and Research Center.
+
+- 👨‍💻I'm interested in Core Java, MERN stack Development and Data Structures & Algorithms. 
 
 - 📫 How to reach me **darsgajul2003@gmail.com**
 
@@ -22,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshilll&show_icons=true&locale=en" alt="darshilll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshilll&" alt="darshilll" /></p>
+
+
+
