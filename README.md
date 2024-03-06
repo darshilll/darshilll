@@ -16,7 +16,7 @@
 
 - 👨‍💻I'm interested in Core Java, MERN stack Development and Data Structures & Algorithms. 
 
-- 📫 How to reach me **darshilgajul2003@gmail.com**
+- 📫 Feel free to reach me at **darshilgajul2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
