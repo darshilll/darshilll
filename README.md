@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshilll&label=Profile%20views&color=0e75b6&style=flat" alt="darshilll" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshilll&label=Profile%20views&color=0e75b6&style=flat" alt="darshil" /> </p>
 
 - 🏫 I’m currently studying Computer Science at Sandip Institute of Technology and Research Center.
 - 👨‍💻I'm interested in Core Java, MERN stack Development and Data Structures & Algorithms. 
