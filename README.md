@@ -6,7 +6,7 @@
 <h3 align="center">🎓 Learning and Coding with MERN Stack</h3>
 
 
-<img align='right' src='https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/static/gifs/new.gif' widht=100 height=300 alt='samadpls/Programming-Gifs'></a>
+
 
 
 
