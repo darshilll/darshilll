@@ -37,7 +37,6 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="nodejs" width="40" height="40"/> 
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="postgresql" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   
 <div align="cneter">
