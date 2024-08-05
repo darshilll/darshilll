@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hola 👋</h1>
+<h1 align="center">Hola! </h1>
 <h3 align="center">🎓 Learning and Coding with MERN Stack</h3>
 
 
