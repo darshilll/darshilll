@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hola 👋, I'm Darshil Gajul</h1>
+<h1 align="center">Hola 👋</h1>
 <h3 align="center">🎓 Learning and Coding with MERN Stack</h3>
 
 
@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshilll&label=Profile%20views&color=0e75b6&style=flat" alt="darshil" /> </p>
 
-- 🏫 I’m currently studying Computer Science at Sandip Institute of Technology and Research Center.
+- I am [Darshil](https://darshilgajul.vercel.app/)
 - 👨‍💻I'm interested in Core Java, MERN stack Development and Data Structures & Algorithms. 
 - 📫 Feel free to reach me at **darshilgajul2003@gmail.com**
 
