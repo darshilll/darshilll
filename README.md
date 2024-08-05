@@ -12,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshilll&label=Profile%20views&color=0e75b6&style=flat" alt="darshil" /> </p>
 
-- I am [Darshil](https://darshilgajul.vercel.app/)
-- 👨‍💻I'm interested in Core Java, MERN stack Development and Data Structures & Algorithms. 
-- 📫 Feel free to reach me at **darshilgajul2003@gmail.com**
+🎓I'm [Darshil](https://darshilgajul.vercel.app/), compeleted my Bachelor's of Engineering from SITRC.
+👨‍💻I'm interested in Core Java, MERN stack Development and Data Structures & Algorithms. 
+📫 Feel free to reach me at **darshilgajul2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
