@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshilll&label=Profile%20views&color=0e75b6&style=flat" alt="darshil" /> </p>
 
-🎓I'm [Darshil](https://darshilgajul.vercel.app/), compeleted my Bachelor's of Engineering from SITRC.
+🎓I'm [Darshil](https://darshilgajul.vercel.app/), completed my Bachelor's of Engineering from SITRC.
 
 👨‍💻I'm interested in Core Java, MERN stack Development and Data Structures & Algorithms. 
 
