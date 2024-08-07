@@ -10,6 +10,7 @@
 
 
 
+
 🎓I'm [Darshil](https://darshilgajul.vercel.app/), completed my Bachelor's of Engineering from SITRC.
 
 👨‍💻I'm interested in Core Java, MERN stack Development and Data Structures & Algorithms. 
