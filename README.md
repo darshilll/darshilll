@@ -25,20 +25,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="css3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="html5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="java" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="javascript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="mongodb" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/50/ffffff/express.png" alt="mysql" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="nodejs" width="40" height="40"/> 
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="postgresql" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+<p align="left">  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
   
 <div align="cneter">
   <img src="https://github-readme-stats.vercel.app/api?username=darshilll&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
