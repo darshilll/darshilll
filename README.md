@@ -20,15 +20,20 @@
 </p>
 
 <h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<p align="left">  <div align="left">
+<p align="left">  
+<div align="left">
     <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,tailwind,react,nextjs,nodejs,express" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,appwrite,figma,git,github,aws,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,appwrite,figma,git,github,aws,postman" />
 </div>
-  
-<div align="cneter">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshilll&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshilll&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</p>
+
+<h2 align="left">⚡ Stats</h2>
+<br>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=darshilll&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshilll&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+</br>
 
 
 ###
