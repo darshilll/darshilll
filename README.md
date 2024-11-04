@@ -7,9 +7,6 @@
     deliver efficient, scalable solutions!
  
 📫 Feel free to reach me at **darshilgajul2003@gmail.com** 
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
 
 
